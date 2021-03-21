@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="btn_login_text">Login</string>
+
+    <string name="desc_text">Description</string>
+    <string name="take_pic_btn">Take Picture</string>
+    <string name="submit_btn">Submit</string>
+</resources>
